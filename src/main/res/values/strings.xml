@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="trans_learn">迁移学习</string>
+    <string name="fed_learning">联邦学习</string>
+    <string name="dl_text">Data Loader</string>
+    <string name="model_def_text">Model Definition</string>
+    <string name="done">Done</string>
+    <string name="cus_data">Customized Data</string>
+</resources>
