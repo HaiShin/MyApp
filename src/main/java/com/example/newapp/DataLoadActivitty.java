@@ -38,6 +38,9 @@ public class DataLoadActivitty extends AppCompatActivity {
     private String path = "";
     private Uri uri;
     private TextView textView8;
+    private Button label0_bn;
+
+
     private static final int FILE_SELECT_CODE = 0;
 
     @Override
