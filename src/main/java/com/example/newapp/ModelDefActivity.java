@@ -28,7 +28,6 @@ public class ModelDefActivity extends AppCompatActivity {
                     RadioButton radiobn = (RadioButton) radiogropu.getChildAt(i);
                     if (radiobn.isChecked()){
                         model = radiobn.getText().toString();
-
                         break;
                     }
                 }

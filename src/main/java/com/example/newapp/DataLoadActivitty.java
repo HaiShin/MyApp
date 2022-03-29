@@ -82,7 +82,7 @@ public class DataLoadActivitty extends AppCompatActivity {
         }
         if (cursor.moveToFirst()) {
             // 多媒体文件，从数据库中获取文件的真实路径
-            String path = cursor.getString(cursor.getColumnIndex("_data"));
+            // String path = cursor.getString(cursor.getColumnIndex("_data"));
         }
         Log.i(TAG, "onActivityResult: " + path);
         cursor.close();
